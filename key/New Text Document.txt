@@ -1,0 +1,15 @@
+db: database-1 - admin - Ss40000072!
+
+instance: ubuntu - Ss40000072@
+
+
+ssh_user = "ubuntu"
+ssh_key_file = "C:\\Users\\a\\Desktop\\key\\privateKey.pem"
+aws_host = "3.128.182.187"
+remote_bind_address = "database-1.ccedoovh3jkf.us-east-2.rds.amazonaws.com"
+db_user = "admin"
+db_password = "Ss40000072!"
+db_name = "travelDB"
+
+
+TravelApplicationConcordia@gmail.com - Ss40000072#
