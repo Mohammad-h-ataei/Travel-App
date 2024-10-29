@@ -56,22 +56,6 @@ Concordia Travel offers various travel packages to customers, which may include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mohammad-h-ataei/Travel-App.git
-Navigate to the project directory:
-bash
-Copy code
-cd Travel-App
-Install the required dependencies:
-bash
-Copy code
-[Insert command based on the technology stack, e.g., npm install]
-Usage
-Start the application:
-bash
-Copy code
-[Insert command based on the technology stack, e.g., npm start]
-Open your browser and navigate to http://localhost:3000 (or the respective port).
-Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any enhancements or bugs.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
